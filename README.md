@@ -43,7 +43,7 @@
   `sTestMSE = specialCase(trainX,trainY,testX,testY);`      
   `box = boxplot(sTestMSE)`     
   which get the testMSE in boxplot *Fig_Q8.jpg*, please check it in the folder.
-  ![BoxPlot](/Users/Vincent/Documents/Program/matlab/DataAnalysis/Assignment1/Fig_Q8.jpg)
+  ![BoxPlot](./Fig_Q8.jpg)
 9. Redo and Train 4 times then use back-propagation,    
   `minTrainMSE = findMinTrainMSE(trainX, trainY, 3, 0.1, 4);`   
   which get the best trainingMSE = __6.5491__   
