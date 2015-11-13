@@ -1,5 +1,4 @@
-# CS5100 Assignment1 Report
-## Neural Network
+# Neural Network
 ----
 1. Neural Network for regression,   
     to fit NeuralNetwork Regession which all parameters is not fixed,     
