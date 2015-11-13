@@ -49,7 +49,7 @@
     `sTestMSE = specialCase(trainX,trainY,testX,testY);`      
     `box = boxplot(sTestMSE)`     
     which get the testMSE in boxplot *Fig_Q8.jpg*, please check it in the folder.
-    ![BoxPlot](./F_Q8.jpg)	
+    ![BoxPlot](https://github.com/vincent101/NeuralNetwork/blob/master/Fig_Q8.jpg)	
   
 9. Redo and Train 4 times then use back-propagation,    
     `minTrainMSE = findMinTrainMSE(trainX, trainY, 3, 0.1, 4);`   
